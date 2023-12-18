@@ -1,0 +1,19 @@
+{
+    "name": "invadererik.kinematic-character-controller-examples.Editor",
+    "rootNamespace": "",
+    "references": [
+        "invadererik.kinematic-character-controller-examples",
+        "invadererik.kinematic-character-controller"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

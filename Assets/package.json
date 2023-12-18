@@ -1,0 +1,23 @@
+{
+    "name": "com.invadererik.kinematic-character-controller-examples",
+    "version": "3.4.4",
+    "displayName": "Kinematic Character Controller (Examples)",
+    "description": "UPM version of only core of https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131",
+    "unity": "2020.3",
+    "documentationUrl": "https://docs.google.com/document/d/1qT71uGaUO4UmK1NbW9-UsrX1G-0dWWQ2JQlKWBH0dIw/edit#heading=h.exahpqm7i35m",
+    "dependencies": {
+      "com.invadererik.kinematic-character-controller": "git@github.com:ErikBehar/kinematic-character-controller.git?path=/Assets"
+   },
+   "keywords": [
+      "kinematic",
+      "character",
+      "controller",
+      "examples",
+      "samples"
+    ],
+    "author": {
+      "name": "original: Philippe St-Amand, package repo maintained by invadererik",
+      "email": "invadererik@gmail.com",
+      "url": "https://github.com/ErikBehar/kinematic-character-controller-examples"
+    }
+  }

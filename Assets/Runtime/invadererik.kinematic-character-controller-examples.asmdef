@@ -1,0 +1,16 @@
+{
+    "name": "invadererik.kinematic-character-controller-examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b9a902ce4be238d45b759a122fca5cd5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
