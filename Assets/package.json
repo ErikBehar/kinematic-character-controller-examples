@@ -6,8 +6,10 @@
     "unity": "2020.3",
     "documentationUrl": "https://docs.google.com/document/d/1qT71uGaUO4UmK1NbW9-UsrX1G-0dWWQ2JQlKWBH0dIw/edit#heading=h.exahpqm7i35m",
     "dependencies": {
-      "com.invadererik.kinematic-character-controller": "git@github.com:ErikBehar/kinematic-character-controller.git?path=/Assets"
-   },
+    },
+   "git-dependencies": [
+    "git@github.com:ErikBehar/kinematic-character-controller.git?path=/Assets"
+  ],
    "keywords": [
       "kinematic",
       "character",
