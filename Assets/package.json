@@ -1,25 +1,117 @@
 {
-    "name": "com.invadererik.kinematic-character-controller-examples",
-    "version": "3.4.4",
-    "displayName": "Kinematic Character Controller (Examples)",
-    "description": "UPM version of only core of https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131",
-    "unity": "2020.3",
-    "documentationUrl": "https://docs.google.com/document/d/1qT71uGaUO4UmK1NbW9-UsrX1G-0dWWQ2JQlKWBH0dIw/edit#heading=h.exahpqm7i35m",
-    "dependencies": {
-    },
-   "git-dependencies": [
+  "name": "com.invadererik.kinematic-character-controller-examples",
+  "version": "3.4.4",
+  "displayName": "Kinematic Character Controller (Examples)",
+  "description": "UPM version of only core of https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131",
+  "unity": "2020.3",
+  "documentationUrl": "https://docs.google.com/document/d/1qT71uGaUO4UmK1NbW9-UsrX1G-0dWWQ2JQlKWBH0dIw/edit#heading=h.exahpqm7i35m",
+  "dependencies": {
+  },
+  "git-dependencies": [
     "git@github.com:ErikBehar/kinematic-character-controller.git?path=/Assets"
   ],
-   "keywords": [
+  "keywords": [
       "kinematic",
       "character",
       "controller",
       "examples",
       "samples"
-    ],
-    "author": {
-      "name": "original: Philippe St-Amand, package repo maintained by invadererik",
-      "email": "invadererik@gmail.com",
-      "url": "https://github.com/ErikBehar/kinematic-character-controller-examples"
-    }
-  }
+  ],
+  "author": {
+    "name": "original: Philippe St-Amand, package repo maintained by invadererik",
+    "email": "invadererik@gmail.com",
+    "url": "https://github.com/ErikBehar/kinematic-character-controller-examples"
+  },
+  "samples": [
+    {
+      "displayName": "Example Character Prefabs",
+      "description": "Contains sample for Witch Character controller with a minimal scene setup.",
+      "path": "Samples/ExampleCharacterPrefabs"
+    },
+    {
+      "displayName": "Main Example Scenes",
+      "description": "Contains a playground scene showing off the example charater prefab and many features. Also a stress test scene.",
+      "path": "Samples/MainExamples"
+    },
+    {
+      "displayName": "Walkthrough Sample 1",
+      "description": "Player Camera Character Setup",
+      "path": "Samples/1- Player Camera Character Setup"
+    },
+    {
+      "displayName": "Walkthrough Sample 2",
+      "description": "Basic Movement and Gravity",
+      "path": "Samples/2- Basic Movement and Gravity"
+    },
+    {
+      "displayName": "Walkthrough Sample 3",
+      "description": "Jumping",
+      "path": "Samples/3- Jumping"
+    },
+    {
+      "displayName": "Walkthrough Sample 4",
+      "description": "Landing and leaving ground",
+      "path": "Samples/4- Landing and leaving ground"
+    },
+    {
+      "displayName": "Walkthrough Sample 5",
+      "description": "Adding velocities and impulses.",
+      "path": "Samples/5- Adding velocities and impulses"
+    },
+    {
+      "displayName": "Walkthrough Sample 6",
+      "description": "Crouching.",
+      "path": "Samples/6- Crouching"
+    },
+    {
+      "displayName": "Walkthrough Sample 7",
+      "description": "Orienting towards arbitrary up direction.",
+      "path": "Samples/7- Orienting towards arbitrary up direction"
+    },
+    {
+      "displayName": "Walkthrough Sample 8",
+      "description": "Creating a moving platform",
+      "path": "Samples/8- Creating a moving platform"
+    },
+    {
+      "displayName": "Walkthrough Sample 9",
+      "description": "Custom collision filtering",
+      "path": "Samples/9- Custom collision filtering"
+    },
+    {
+      "displayName": "Walkthrough Sample 10",
+      "description": "Multiple movement states setup",
+      "path": "Samples/10- Multiple movement states setup"
+    },
+    {
+      "displayName": "Walkthrough Sample 11",
+      "description": "Charging state",
+      "path": "Samples/11- Charging state"
+    },
+    {
+      "displayName": "Walkthrough Sample 12",
+      "description": "NoClip state",
+      "path": "Samples/12- NoClip state"
+    },
+    {
+      "displayName": "Walkthrough Sample 13",
+      "description": " Swimming state",
+      "path": "Samples/13- Swimming state"
+    },
+    {
+      "displayName": "Walkthrough Sample 14",
+      "description": "Climbing Ladders",
+      "path": "Samples/14- Climbing Ladders"
+    },
+    {
+      "displayName": "Walkthrough Sample 15",
+      "description": "Root motion example",
+      "path": "Samples/15- Root motion example"
+    },
+    {
+      "displayName": "Walkthrough Sample 16",
+      "description": "FramePerfect Rotation",
+      "path": "Samples/16- FramePerfect Rotation"
+    },
+  ]
+}
